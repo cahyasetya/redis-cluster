@@ -7,3 +7,5 @@ Some good resource around redis cluster:
 - https://redis.io/topics/replication
 
 Don't hesitate to use `CLUSTER HELP` :smile:
+
+This experiment is using vagrant
